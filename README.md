@@ -8,7 +8,6 @@ Senior Backend Developer with 5+ years of experience, and scalable API developme
 ## 🧠 About Me
 
 - 💻 I focus on **building scalable APIs** and backend systems that power real-world applications  
-- 🧩 Strong knowledge of **OOP, SOLID principles, and software design patterns**  
 - ⚙️ Experienced with **databases, caching, and system architecture optimization**  
 - ☁️ Comfortable with **DevOps practices**, including CI/CD, Docker, and AWS  
 - 🧠 Constantly learning — exploring distributed systems, system design, and cloud-native architecture  
