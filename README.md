@@ -57,16 +57,7 @@ I love turning complex problems into elegant solutions, improving performance, a
 
 - Building **microservice-based architectures** and **API-first systems**  
 - Exploring **serverless solutions** and **container orchestration**  
-- Writing clean, maintainable, and testable code with a focus on scalability  
-
----
-
-## 📈 My Interests
-
-- 🧱 **System design** & backend architecture  
-- ⚙️ **Automation** and continuous integration  
-- ☁️ **Cloud computing** and deployment optimization  
-- 🔐 **Security** and best practices for web applications  
+- Writing clean, maintainable, and testable code with a focus on scalability   
 
 ---
 
@@ -75,7 +66,3 @@ I love turning complex problems into elegant solutions, improving performance, a
 - 📧 **Email:** [hossamibrahim.dev@gmail.com](mailto:hossamibrahim.dev@gmail.com)  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/hossam-ibrahim-998035201/  
 - 💻 **GitHub:** https://github.com/Hossam-h
-
----
-
-⭐ _"Clean architecture, reliable systems, and continuous improvement — that’s what I build."_
