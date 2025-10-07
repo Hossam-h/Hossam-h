@@ -47,14 +47,7 @@ Senior Backend Developer with 5+ years of experience, and scalable API developme
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
----
-
-## ⚡ What I’m Currently Working On
-
-- Building **microservice-based architectures** and **API-first systems**  
-- Exploring **serverless solutions** and **container orchestration**  
-- Writing clean, maintainable, and testable code with a focus on scalability   
+ 
 
 ---
 
