@@ -2,9 +2,7 @@
 
 🚀 **Backend Engineer | PHP | Node.js | Cloud & DevOps Enthusiast**
 
-I’m a passionate **Backend Developer** with strong experience in designing and building scalable, secure, and maintainable systems.  
-I love turning complex problems into elegant solutions, improving performance, and automating workflows using modern backend technologies and cloud tools.
-
+Senior Backend Developer with 5+ years of experience, and scalable API development. Skilled in designing high-performance systems and database optimization. Strong DevOps background with AWS, CI/CD, and cloud infrastructure management.
 ---
 
 ## 🧠 About Me
