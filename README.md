@@ -57,8 +57,8 @@ I love turning complex problems into elegant solutions, improving performance, a
 ## 🌐 Connect with Me
 
 - 📧 **Email:** [hossamibrahim.dev@gmail.com](mailto:hossamibrahim.dev@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/hossamibrahim](#)  
-- 💻 **GitHub:** [github.com/hossamibrahim](#)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/hossam-ibrahim-998035201/  
+- 💻 **GitHub:** https://github.com/Hossam-h
 
 ---
 
